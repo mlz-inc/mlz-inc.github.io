@@ -1,1 +1,1 @@
-parser_top.py > real_table_source.org 
+./parser_top.py > real_table_source.org 
