@@ -1,0 +1,10 @@
+#+TITLE: Рейтинг проги по Мелеузу с acmp.ru
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../org.css" />
+#+HTML_HEAD: <style>div.figure img {max-height:300px;max-width:900px;}</style>
+#+HTML_HEAD_EXTRA: <style>.org-src-container {background-color: #303030; color: #e5e5e5;}</style>
+
+#+ATTR_LaTeX: :center t
+* Такие дела на 25.03.2020
+#+INCLUDE: "real_table_source.org" :minlevel 1
+[[file:///home/amder/Projects/MLZ/mlzinc.github.io/index.html][На главную]]
