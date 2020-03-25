@@ -90,4 +90,4 @@ https://vk.com/postypashki
 с чтения вводной статьи. 
 \\
 \\
-[[file:../index.org][На главную]]
+[[file:index.org][На главную]]
