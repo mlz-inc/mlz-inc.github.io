@@ -7,4 +7,4 @@
 #+ATTR_LaTeX: :center t
 * Такие дела на 25.03.2020
 #+INCLUDE: "real_table_source.org" :minlevel 1
-[[file:///home/amder/Projects/MLZ/mlzinc.github.io/index.html][На главную]]
+[[file:../index.org][На главную]]

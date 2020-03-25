@@ -90,4 +90,4 @@ https://vk.com/postypashki
 с чтения вводной статьи. 
 \\
 \\
-[[file:///home/amder/Projects/MLZ/mlzinc.github.io/index.html][На главную]]
+[[file:../index.org][На главную]]
