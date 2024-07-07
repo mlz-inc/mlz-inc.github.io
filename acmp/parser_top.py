@@ -59,8 +59,8 @@ def main():
 
         soup = BeautifulSoup(resp.text, 'lxml') # resp.text for req
 
-        right = soup.find("table", cellspacing="1") # единственный ориентир
-        
+        right = soup.find("table", cellspacing="1", cellpadding="2") # единственный ориентир
+
         for elem in right.children:
             if elem.name and elem.td:
                 name = elem.td.next_sibling.next_sibling

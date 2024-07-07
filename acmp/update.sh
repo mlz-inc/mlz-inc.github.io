@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo "Parsing table..."
 
-path="/home/amder/Projects/MLZ/mlzinc.github.io"
+path="../"
 python $path/acmp/parser_top.py > $path/acmp/real_table_source.org
 
 echo "Exporting org to html..."
