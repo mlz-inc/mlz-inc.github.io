@@ -1,0 +1,39 @@
+#+TITLE: Логово
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
+#+HTML_HEAD: <style>div.figure img {max-height:300px;max-width:900px;}</style>
+#+HTML_HEAD_EXTRA: <style>.org-src-container {background-color: #303030; color: #e5e5e5;}</style>
+
+Ресурс, посвящённый олимпиадам и внешкольным математике и программированию в *Мелеузе*. (обновления страницы каждое воскресенье)\\
+Заинтересованным писать в [[https://t.me/mlz_inc][Телегу]] (чат mlz-inc) или на почту jury.mlz.inc@gmail.com \\
+
+* < [[file:acmp/real_table.org][Таблица]] > < [[file:olymps.org][Перечень]] >
+
+* Анонсы 
+  :PROPERTIES:
+  :CUSTOM_ID: announce
+  :END:
+
+* Затравка
+
+  Никого не призываю осваивать эту жесть, но вот вам [[http://imperium.lenin.ru/~verbit/MATH/programma.html][программа Вербицкого]]. Она, конечно, рассчитана на тех, кто хочет сделать математику свой профессией, однако может являться бездонным кладезем тем для изучения. \\
+  \\
+  Кроме того, уверен, будет интересно посмотреть курсы [[https://www.mccme.ru/ium/][НМУ]], а также записи прошлых лет [[https://www.mccme.ru/dubna/][школы "Современная математика"]].
+
+  
+* ТИПО полезные ссылки:  
+  :PROPERTIES:
+  :CUSTOM_ID: links
+  :END:
+  - [[https://olimpiada.ru/][Olimpiada.ru]] - сайт со школьными олимпиадами и новостями по ним, а также [[https://info.olimpiada.ru/events][список]] ближайших олимпиад 
+  - [[http://postypashki.ru/][Поступашки]] - ресурс, на котором расписано, зачем нужны олимпиады, что такое БВИ и как проводится устный этап ТурГора 
+  - [[http://postypashki.ru/%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/][Список]] полезной литературы и листков по математике с Поступашек
+  - Платформа для соревнований по программированию [[https://codeforces.com/][codeforces.com]]
+  - Новая платформа наподобие кодфорсеса - [[http://mathforces.com/][mathforces.com]]
+
+  - [[file:acmp/real_table.org][Таблица]] *реального* рейтинга [[https://acmp.ru/][acmp.ru]] по Мелеузу (показаны только активные за последние 30 дней, обновляется 3 раза в день)  
+  - Группы вк по олимппроге в Мелеузе [[https://vk.com/mlzinc][раз]], [[https://vk.com/olimpinf][два]].
+  - [[https://github.com/mlz-inc/mlz-inc.github.io][GitHub-репозиторий]] этой страницы, в который каждый может вносить свои изменения (в случае полного доверия, напрямую)
+
+
+(Telegram: mlz-inc или jury.mlz.inc@gmail.com)
